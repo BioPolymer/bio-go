@@ -1,7 +1,7 @@
 import { LitElement, html } from "lit-element";
 import "@polymer/iron-icon/iron-icon";
-import "@bit/marko-ignjatovic.biopolymer.bio-icons/bio-icons/bio-icons";
-import "@bit/marko-ignjatovic.biopolymer.bio-link/bio-link/bio-link-mixin";
+import "@biopolymer-elements/bio-icons/bio-icons";
+import "@biopolymer-elements/bio-link/bio-link-mixin";
 
 /**
  * `bio-go-link-chiclet`

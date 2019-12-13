@@ -1,0 +1,29 @@
+{
+  "name": "@biopolymer-elements/bio-go",
+  "version": "1.0.0",
+  "description": "Gene Ontology-related web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioPolymer/bio-go.git"
+  },
+  "keywords": [
+    "bio",
+    "go",
+    "biopolymer",
+    "bio-go"
+  ],
+  "author": "Mark Fortner, Ishan Subedi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/BioPolymer/bio-go/issues"
+  },
+  "homepage": "https://github.com/BioPolymer/bio-go#readme",
+  "dependencies": {
+    "@biopolymer-elements/bio-icons": "^1.0.0",
+    "@biopolymer-elements/bio-link": "^1.0.1"
+  }
+}
