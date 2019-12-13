@@ -1,6 +1,6 @@
 {
   "name": "@biopolymer-elements/bio-go",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gene Ontology-related web components",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,6 @@
   "dependencies": {
     "@biopolymer-elements/bio-icons": "^1.0.0",
     "@biopolymer-elements/bio-link": "^1.0.1"
-  }
+  },
+  "devDependencies": {}
 }

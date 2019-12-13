@@ -7,7 +7,7 @@ import "@polymer/paper-listbox/paper-listbox";
  * @summary ShortDescription.
  * @customElement
  * @polymer
- * @extends {Polymer.Element}
+ * @extends {PolymerElement}
  */
 class BioGoCard extends PolymerElement {
   static get template() {
@@ -170,8 +170,6 @@ class BioGoCard extends PolymerElement {
    */
   ready() {
     super.ready();
-
-    Polymer.RenderStatus.afterNextRender(this, function() {});
   }
 
   /**
