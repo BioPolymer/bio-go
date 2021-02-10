@@ -50,6 +50,10 @@ class BioGoPanel extends PolymerElement {
           @apply --layout-horizontal;
           @apply --layout-wrap;
         }
+
+        bio-go-card {
+          width: 100%;
+        }
       </style>
 
       <fieldset>
